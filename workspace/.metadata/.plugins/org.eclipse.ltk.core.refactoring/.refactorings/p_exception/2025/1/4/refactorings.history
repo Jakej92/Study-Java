@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exceptionTest.RPG&apos; to &apos;RPG01&apos;&#x0D;&#x0A;- Original project: &apos;p_exception&apos;&#x0D;&#x0A;- Original element: &apos;exceptionTest.RPG&apos;&#x0D;&#x0A;- Renamed element: &apos;exceptionTest.RPG01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RPG&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exceptionTest{RPG.java[RPG" matchStrategy="1" name="RPG01" qualified="false" references="true" similarDeclarations="false" stamp="1737677496053" textual="false" version="1.0"/>
+</session>
