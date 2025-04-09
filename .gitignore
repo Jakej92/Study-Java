@@ -1,0 +1,35 @@
+# ========================
+# Eclipse 관련 무시 파일
+# ========================
+/workspace/.metadata/
+/workspace/bin/
+/workspace/target/
+*.class
+
+# ========================
+# IntelliJ IDEA 관련
+# ========================
+/workspace/.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ========================
+# Gradle, Maven 등 빌드 도구 관련
+# ========================
+.gradle/
+.mvn/
+build/
+!/.mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# ========================
+# 운영체제 자동 생성 파일
+# ========================
+.DS_Store
+Thumbs.db
